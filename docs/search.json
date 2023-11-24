@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Iqtisodchi va boshqalar uchun yon daftar",
+    "section": "",
+    "text": "SO’Z BOSHI\nUshbu kitob iqtisodiyot tushunchalari bo’yicha eng ko’p uchraydigan xatolar to’g’risida bo’ladi. Kitob iqtisodchilar va boshqa kasb egalari uchun mo’ljallangan bo’lib, o’qish va tushunish uchun iqtisod bo’yicha bazaviy bilim talab qilinmaydi."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Import vs Yalpi ichki mahsulot (YaIM)",
+    "section": "",
+    "text": "Yalpi ichki mahsulot (YaIM) bu mamlakat hududida ma’lum davr (yil yoki chorak) mobaynida yaratilgan tovar va xizmatlarning umumiy qiymati.\nUshbu ta’rifni ikki muhim jihati bor:\n\nYaIM faqat yangi yaratilgan yakuniy mahsulotlarni hisobga oladi.\nMamlakat tashqarisida yaratilgan mahsulotlar (import) YaIM tarkibiga kirmaydi.\n\nJuda ko’pchilik import YaIMni kamaytiradi deb o’ylaydi, hattoki professional iqtisodchilar va nufuzli jurnallar ham.\nUshbu xatolik milliy hisoblar tizimidagi ayniyatdan kelib chiqadi. Unga ko’ra, YaIM xarajatlar usulida quyidagicha hisoblanadi:\n\\(Y = C + I + G+(X-M)\\) .\n\n\nBu yerda, Y - yalpi ichki mahsulot, C - iste’mol, G-davlat harajatlari, X-eksport, M - import.\nUshbu ayniyatda M-import chegirib tashlangani uchun odatda noto’g’ri tushuniladi. Qolgan elementlar qo’shilyapti, import ayrilyapti. Shundan kelib chiqib, ko’pchilik “importni kamaytirsak, YaIM ko’payadi”, yoki “import ko’paygani hisobiga YaIM o’sishi sekinlashdi” deb xulosa qiladi.\nAlbatta, kimdir argument berishi mumkin, import o’sishi YaIM o’sishini kamaytirishi mumkin deb, ammo xulosa yuqoridagi ayniyatdan kelib chiqishi kerak emas.\nUnda nega tepada import chegirilmoqda? Sababi juda oddiy, import YaIM tarkibida o’tirmaydi.\nIste’mol (investitsiya, davlat) xarajatlari tarkibida mamlakatda ishlab chiqilgan mahsulotlar bilan birga import ham o’tiradi.\nMisol uchun, yangi Iphone telefon sotib oldingiz, bu iste’molingizni bir qismi. Ammo, ichki, mahalliy (domestic) mahsulot emas. O’zbekistonda ishlab chiqarilmagan. Shuning uchun, ushbu xarajatni YaIMni hisoblashda chegirib tashlash kerak.\nSavol tug’ilishi mumkin, nima uchun birdaniga iste’mol, investitsiya yoki davlat xarajatlaridan importni chegirib, yuqoridagi tenglamadan import komponenti olib tashlanmaydi va quyidagicha ifoda qilinmaydi?\n\\(Y = C + I + G+X\\)\nSababi, iste’mol, investitsiya davlat xarajatlari umumiy (aggregated) ko’rsatkich va ushbu xarajatlarni kelib chiqish manbasi bo’yicha alohida statistika yuritilmaydi.\nSizdan yil davomidagi iste’molingizni qanchasi import mahsulotlar edi so’rashsa aniq ayta olmaysiz yoki buni hisobini yuritmaysiz. Shuning uchun, statistikasi yuritiladigan umumiy iste’mol (investitsiya)dan statistikasi bor bo’lgan umumiy import komponenti olib tashlanadi.\nYuqoridagi YaIM formulasini quyidagicha ifoda qilish orqali yana ham aniqroq tushunish mumkin:\n\\(Y = (C~d~ + C~f~ ) + (I~d~ + I~f~) + (G~d~ + G~f~) +(X- [C~f~ +I~f~ + G~f~])\\)\nUshbu formulada, har bir komponent ichki yoki tashqi mahsulotligini ko’rsatadi.\nBitta misol ko’raylik. Tasavvur qiling, Investitsiya, Davlat xarajatlari va Eksport nolga teng bo’lsin. Shunda eng so’nggi formulaga ko’ra YaIM 100 ga teng bo’ladi:\n\\(Y = (100+0) + 0 + 0 + (0-0)\\)\nEndi, ushbu gipotetik davlat tashqi bozorga ochilsin va 100 birlik import qilsin:\n\\(Y = (100+100) + 0 + 0 + (0-100)\\)\nUshbu misolni soddalashtirsak, YaIM 100 ga teng bo’ladi.\nMazkur misoldan ko’rish mumkinki, import YaIM hajmini o’zgartirmaydi."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "importisnotsobad.html",
+    "href": "importisnotsobad.html",
+    "title": "2  Import vs Yalpi ichki mahsulot (YaIM)",
+    "section": "",
+    "text": "Yalpi ichki mahsulot (YaIM) bu mamlakat hududida ma’lum davr (yil yoki chorak) mobaynida yaratilgan tovar va xizmatlarning umumiy qiymati.\nUshbu ta’rifni ikki muhim jihati bor:\n\nYaIM faqat yangi yaratilgan yakuniy mahsulotlarni hisobga oladi.\nMamlakat tashqarisida yaratilgan mahsulotlar (import) YaIM tarkibiga kirmaydi.\n\nJuda ko’pchilik import YaIMni kamaytiradi deb o’ylaydi, hattoki professional iqtisodchilar va nufuzli jurnallar ham.\nUshbu xatolik milliy hisoblar tizimidagi ayniyatdan kelib chiqadi. Unga ko’ra, YaIM xarajatlar usulida quyidagicha hisoblanadi:\n\\(Y = C + I + G+(X-M)\\) .\n\n\nBu yerda, Y - yalpi ichki mahsulot, C - iste’mol, G-davlat harajatlari, X-eksport, M - import.\nUshbu ayniyatda M-import chegirib tashlangani uchun odatda noto’g’ri tushuniladi. Qolgan elementlar qo’shilyapti, import ayrilyapti. Shundan kelib chiqib, ko’pchilik “importni kamaytirsak, YaIM ko’payadi”, yoki “import ko’paygani hisobiga YaIM o’sishi sekinlashdi” deb xulosa qiladi.\nAlbatta, kimdir argument berishi mumkin, import o’sishi YaIM o’sishini kamaytirishi mumkin deb, ammo xulosa yuqoridagi ayniyatdan kelib chiqishi kerak emas.\nUnda nega tepada import chegirilmoqda? Sababi juda oddiy, import YaIM tarkibida o’tirmaydi.\nIste’mol (investitsiya, davlat) xarajatlari tarkibida mamlakatda ishlab chiqilgan mahsulotlar bilan birga import ham o’tiradi.\nMisol uchun, yangi Iphone telefon sotib oldingiz, bu iste’molingizni bir qismi. Ammo, ichki, mahalliy (domestic) mahsulot emas. O’zbekistonda ishlab chiqarilmagan. Shuning uchun, ushbu xarajatni YaIMni hisoblashda chegirib tashlash kerak.\nSavol tug’ilishi mumkin, nima uchun birdaniga iste’mol, investitsiya yoki davlat xarajatlaridan importni chegirib, yuqoridagi tenglamadan import komponenti olib tashlanmaydi va quyidagicha ifoda qilinmaydi?\n\\(Y = C + I + G+X\\)\nSababi, iste’mol, investitsiya davlat xarajatlari umumiy (aggregated) ko’rsatkich va ushbu xarajatlarni kelib chiqish manbasi bo’yicha alohida statistika yuritilmaydi.\nSizdan yil davomidagi iste’molingizni qanchasi import mahsulotlar edi so’rashsa aniq ayta olmaysiz yoki buni hisobini yuritmaysiz. Shuning uchun, statistikasi yuritiladigan umumiy iste’mol (investitsiya)dan statistikasi bor bo’lgan umumiy import komponenti olib tashlanadi.\nYuqoridagi YaIM formulasini quyidagicha ifoda qilish orqali yana ham aniqroq tushunish mumkin:\n\\(Y = (C~d~ + C~f~ ) + (I~d~ + I~f~) + (G~d~ + G~f~) +(X- [C~f~ +I~f~ + G~f~])\\)\nUshbu formulada, har bir komponent ichki yoki tashqi mahsulotligini ko’rsatadi.\nBitta misol ko’raylik. Tasavvur qiling, Investitsiya, Davlat xarajatlari va Eksport nolga teng bo’lsin. Shunda eng so’nggi formulaga ko’ra YaIM 100 ga teng bo’ladi:\n\\(Y = (100+0) + 0 + 0 + (0-0)\\)\nEndi, ushbu gipotetik davlat tashqi bozorga ochilsin va 100 birlik import qilsin:\n\\(Y = (100+100) + 0 + 0 + (0-100)\\)\nUshbu misolni soddalashtirsak, YaIM 100 ga teng bo’ladi.\nMazkur misoldan ko’rish mumkinki, import YaIM hajmini o’zgartirmaydi."
+  }
+]
