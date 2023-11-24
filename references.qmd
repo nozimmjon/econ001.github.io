@@ -1,0 +1,4 @@
+# Foydalanilgan adabiyotlar {.unnumbered}
+
+::: {#refs}
+:::

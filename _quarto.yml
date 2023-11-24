@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Iqtisodchi va boshqalar uchun yon daftar"
+  author: "MacroBS"
+  date: "23.11.2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - importisnotsobad.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
