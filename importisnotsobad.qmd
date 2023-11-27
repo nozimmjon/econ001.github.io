@@ -13,7 +13,7 @@ Ushbu xatolik milliy hisoblar tizimidagi ayniyatdan kelib chiqadi. Unga ko'ra, Y
 $Y = C + I + G+(X-M)$ .
 
 ::: aside
-*Bu yerda, Y - yalpi ichki mahsulot, C - iste'mol, G-davlat harajatlari, X-eksport, M - import.*
+*Bu yerda, Y - yalpi ichki mahsulot, C - iste'mol, I-investitsiya, G-davlat harajatlari, X-eksport, M - import.*
 :::
 
 Ushbu ayniyatda M-import chegirib tashlanishi xato xulosaga olib keladi. Qolgan elementlar qo'shilyapti, import ayrilyapti. Shundan kelib chiqib, ko'pchilik "*importni kamaytirsak, YaIM ko'payadi*", yoki "*import ko'paygani hisobiga YaIM o'sishi sekinlashdi*" deb xulosa qiladi.
