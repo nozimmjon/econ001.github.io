@@ -3,7 +3,7 @@ project:
 
 book:
   title: "Iqtisodchi va boshqalar uchun yon daftar"
-  author: "MacroBS"
+  author: "Nozim"
   date: "23.11.2023"
   chapters:
     - index.qmd

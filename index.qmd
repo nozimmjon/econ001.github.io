@@ -1,3 +1,5 @@
 # SO'Z BOSHI {.unnumbered}
 
-Iqtisod qiyin fan, Statistika ham. Ushbu mini kitobda asosan iqtisodiy statistikani talqin qilishda uchraydigan xatolar haqida so'z yuritiladi. Kitob iqtisodchilar va boshqa kasb egalari uchun mo'ljallangan bo'lib, o'qish va tushunish uchun iqtisod bo'yicha bazaviy bilim talab qilinmaydi.
+Iqtisodiyot qiyin fan, Statistika ham. Ushbu mini kitobda asosan iqtisodiy statistikani talqin qilishda uchraydigan xatolar haqida so'z yuritiladi.
+
+Kitob iqtisodchilar va boshqa kasb egalari uchun mo'ljallangan bo'lib, o'qish va tushunish uchun iqtisod bo'yicha bazaviy bilim talab qilinmaydi.
