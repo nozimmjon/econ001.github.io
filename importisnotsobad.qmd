@@ -1,13 +1,12 @@
 # Import vs Yalpi ichki mahsulot (YaIM)
 
-**Yalpi ichki mahsulot (YaIM)** bu **mamlakat hududida** ma'lum davr (yil yoki chorak) mobaynida yaratilgan tovar va xizmatlarning umumiy qiymati.
+**Yalpi ichki mahsulot (YaIM)** - **mamlakat hududida** ma'lum davr (yil yoki chorak) mobaynida yaratilgan tovar va xizmatlar umumiy qiymatidir.
 
-Ushbu ta'rifni ikki muhim jihati bor:
+Ushbu ta'rifni bir muhim jihati bor:
 
-1.  YaIM faqat yangi yaratilgan yakuniy mahsulotlarni hisobga oladi.
-2.  Mamlakat tashqarisida yaratilgan **mahsulotlar (import) YaIM tarkibiga kirmaydi**.
+| **Mamlakat tashqarisida yaratilgan mahsulotlar (import) YaIM tarkibiga kirmaydi**.
 
-Juda ko'pchilik *import YaIMni kamaytiradi deb o'ylaydi*, hattoki professional iqtisodchilar va nufuzli jurnallar ham.
+Ammo, juda ko'pchilik *import YaIMni kamaytiradi deb o'ylaydi*, hattoki professional iqtisodchi va nufuzli jurnallar ham.
 
 Ushbu xatolik milliy hisoblar tizimidagi ayniyatdan kelib chiqadi. Unga ko'ra, YaIM xarajatlar usulida quyidagicha hisoblanadi:
 
@@ -17,38 +16,50 @@ $Y = C + I + G+(X-M)$ .
 *Bu yerda, Y - yalpi ichki mahsulot, C - iste'mol, G-davlat harajatlari, X-eksport, M - import.*
 :::
 
-Ushbu ayniyatda M-import chegirib tashlangani uchun odatda noto'g'ri tushuniladi. Qolgan elementlar qo'shilyapti, import ayrilyapti. Shundan kelib chiqib, ko'pchilik "*importni kamaytirsak, YaIM ko'payadi*", yoki "*import ko'paygani hisobiga YaIM o'sishi sekinlashdi*" deb xulosa qiladi.
+Ushbu ayniyatda M-import chegirib tashlanishi xato xulosaga olib keladi. Qolgan elementlar qo'shilyapti, import ayrilyapti. Shundan kelib chiqib, ko'pchilik "*importni kamaytirsak, YaIM ko'payadi*", yoki "*import ko'paygani hisobiga YaIM o'sishi sekinlashdi*" deb xulosa qiladi.
 
-Albatta, kimdir argument berishi mumkin, import o'sishi YaIM o'sishini kamaytirishi mumkin deb, ammo xulosa yuqoridagi ayniyatdan kelib chiqishi kerak emas.
+Unda nega tepada import chegirilmoqda?
 
-Unda nega tepada import chegirilmoqda? Sababi juda oddiy, [**import YaIM tarkibida o'tirmaydi**]{.underline}.
+Sababi juda oddiy, [**import YaIM tarkibida o'tirmaydi**]{.underline}.
 
 Iste'mol (investitsiya, davlat) xarajatlari tarkibida mamlakatda ishlab chiqilgan mahsulotlar bilan birga import ham o'tiradi.
 
-Misol uchun, yangi Iphone telefon sotib oldingiz, bu iste'molingizni bir qismi. Ammo, ichki, mahalliy (domestic) mahsulot emas. O'zbekistonda ishlab chiqarilmagan. Shuning uchun, ushbu xarajatni YaIMni hisoblashda chegirib tashlash kerak.
+Misol uchun, yangi Iphone telefon sotib oldingiz, bu iste'molingizni bir qismi. Ammo, ichki, mahalliy (domestic) mahsulot emas - O'zbekistonda ishlab chiqarilmagan. Shuning uchun, ushbu xarajatni YaIMni hisoblashda chegirib tashlash kerak.
 
 Savol tug'ilishi mumkin, nima uchun birdaniga iste'mol, investitsiya yoki davlat xarajatlaridan importni chegirib, yuqoridagi tenglamadan import komponenti olib tashlanmaydi va quyidagicha ifoda qilinmaydi?
 
 $Y = C + I + G+X$
 
-Sababi, iste'mol, investitsiya davlat xarajatlari umumiy (aggregated) ko'rsatkich va ushbu xarajatlarni kelib chiqish manbasi bo'yicha alohida statistika yuritilmaydi.
+Sababi, iste'mol, investitsiya va davlat xarajatlari umumiy (aggregated) ko'rsatkich va ushbu xarajatlar kelib chiqish manbasi bo'yicha alohida statistika yuritilmaydi. Sizdan yil davomidagi iste'molingizning qanchasi import mahsulotlar deb so'rashsa, aniq ayta olmaysiz yoki buning hisobini yuritmaysiz.
 
-Sizdan yil davomidagi iste'molingizni qanchasi import mahsulotlar edi so'rashsa aniq ayta olmaysiz yoki buni hisobini yuritmaysiz. Shuning uchun, statistikasi yuritiladigan umumiy iste'mol (investitsiya)dan statistikasi bor bo'lgan umumiy import komponenti olib tashlanadi.
+Shuning uchun, statistikasi yuritiladigan umumiy iste'mol (investitsiya)dan statistikasi bor bo'lgan umumiy import komponenti olib tashlanadi.
 
 Yuqoridagi YaIM formulasini quyidagicha ifoda qilish orqali yana ham aniqroq tushunish mumkin:
 
 $Y = (C~d~ + C~f~ ) + (I~d~ + I~f~) + (G~d~ + G~f~) +(X- [C~f~ +I~f~ + G~f~])$
 
-Ushbu formulada, har bir komponent ichki yoki tashqi mahsulotligini ko'rsatadi.
+Bunda Iste'mol (Investitsiya, Davlat) xarajatlar ichki va tashqi komponentlarga ajratilgan.
 
-Bitta misol ko'raylik. Tasavvur qiling, Investitsiya, Davlat xarajatlari va Eksport nolga teng bo'lsin. Shunda eng so'nggi formulaga ko'ra YaIM 100 ga teng bo'ladi:
+Mazkur formula yordamida bir misol ko'raylik.
+
+Tasavvur qilaylik, davlatda Iste'mol 100ga, Investitsiya, Davlat xarajatlari, Eksport va Import esa nol bo'lsin. Shunda, YaIM 100 ga teng bo'ladi:
 
 $Y = (100+0) + 0 + 0 + (0-0)$
 
-Endi, ushbu gipotetik davlat tashqi bozorga ochilsin va 100 birlik import qilsin:
+Endi, ushbu gipotetik davlat tashqi bozorga ochilib, 100 birlik import qilsin va uni iste'mol qilsin. U holda tenglikni quyidagicha yozish mumkin:
 
 $Y = (100+100) + 0 + 0 + (0-100)$
 
-Ushbu misolni soddalashtirsak, YaIM 100 ga teng bo'ladi.
+Ushbu misolni soddalashtirsak, YaIM 100 ga teng bo'ladi. Bunda iste'mol 200, ammo YaIM hajmi o'zgarmasdan qoladi.
 
-Mazkur misoldan ko'rish mumkinki, **import YaIM hajmini o'zgartirmaydi**.
+Mazkur misoldan ko'rish mumkinki, **import YaIM hajmiga ta'sir ko'rsatmaydi** va faqat bir xarajatni ikki marta hisobga olmaslik uchun korrektirovka qilinyapti.
+
+Demak,
+
+1.  YaIM mamlakat ichidagi yaratilgan tovar va xizmatlarni ichiga oladi.
+2.  Import uchun sarflangan xarajatlar YaIMni hisoblashda chegirib tashlash kerak.
+3.  Import to'g'ridan-to'g'ri YaIMni kamaytirmaydi.
+
+Endi, kimdir aytishi mumkin, import ko'paysa milliy mahsulotlarni sotib olish kamayadi va bu YaIMni kamaytiradi deb.
+
+**Bu bizni yana bir xatoga yetaklaydi - ayniyatdan (formula) sabab-oqibatni keltirib chiqarish**. Bu haqida keyingi qismda to'xtalamiz.
