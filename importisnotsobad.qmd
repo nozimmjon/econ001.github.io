@@ -56,8 +56,8 @@ Mazkur misoldan ko'rish mumkinki, **import YaIM hajmiga ta'sir ko'rsatmaydi** va
 
 Demak,
 
-1.  YaIM mamlakat ichidagi yaratilgan tovar va xizmatlarni ichiga oladi.
-2.  Import uchun sarflangan xarajatlar YaIMni hisoblashda chegirib tashlash kerak.
+1.  YaIM mamlakat hududida yaratilgan tovar va xizmatlarni o'z ichiga oladi.
+2.  Import uchun sarflangan xarajatlarni YaIMni hisoblashda chegirib tashlash kerak.
 3.  Import to'g'ridan-to'g'ri YaIMni kamaytirmaydi.
 
 Endi, kimdir aytishi mumkin, import ko'paysa milliy mahsulotlarni sotib olish kamayadi va bu YaIMni kamaytiradi deb.
