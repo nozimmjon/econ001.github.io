@@ -38,7 +38,7 @@ Yuqoridagi YaIM formulasini quyidagicha ifoda qilish orqali yana ham aniqroq tus
 
 $Y = (C~d~ + C~f~ ) + (I~d~ + I~f~) + (G~d~ + G~f~) +(X- [C~f~ +I~f~ + G~f~])$
 
-Bunda Iste'mol (Investitsiya, Davlat) xarajatlar ichki va tashqi komponentlarga ajratilgan.
+Bunda Iste'mol (Investitsiya, Davlat) xarajatlari ichki va tashqi komponentlarga ajratilgan.
 
 Mazkur formula yordamida bir misol ko'raylik.
 
