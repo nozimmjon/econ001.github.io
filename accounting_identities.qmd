@@ -1,0 +1,15 @@
+# Ayniyatdan xulosa chiqarish kerak emas {.unnumbered}
+
+Ayniyat nima? Ayniyat - bu tarif bo’yicha doim to’gri degani.
+
+Misol uchun, daromadimiz jamg’arma va xarajatlarimiz yig’indisiga teng. Lekin hech qachon biz xarajatlarimizni ko’paytirsak daromadimiz ko’payadi deb aytmaymiz, to’g’rimi?
+
+Buning barchasi nimani nima keltirib chiqarishiga bog’liq. Misol uchun, xarajatni ko’paytirish mazkur xarajatlarni qoplash uchun ko’proq ishlashga majbur qilar yoki kamroq jamg’arma qilarmiz.
+
+Quyida makroqitisodiy ayniyatlarga ikkita misol:
+
+$Y = C + I + G+(X-M)$ .
+
+$Y = C + S + T$ .
+
+Yuqoridagi birinchi tenglamadan "davlat xarajatlarini ko’paytirish YaIMni oshiradi" deb xulosa berish mumkin. Yoki, ikkinchisidan "soliqlarni ko'paytirish YaIMni oshiradi" deb ham xulosa qilishi mumkin. Ko'pincha iqtisodiy muhokamalarda birinchi ta'kid eslanadi. Ammo, har ikkala fikr (xulosa) ham noto'g'ri.

@@ -9,6 +9,7 @@ book:
     - index.qmd
     - intro.qmd
     - importisnotsobad.qmd
+    - accounting_identities.qmd
     - references.qmd
 
 bibliography: references.bib

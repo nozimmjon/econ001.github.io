@@ -1,4 +1,4 @@
-# Import vs Yalpi ichki mahsulot (YaIM)
+# Import vs Yalpi ichki mahsulot (YaIM) {.unnumbered}
 
 **Yalpi ichki mahsulot (YaIM)** - **mamlakat hududida** ma'lum davr (yil yoki chorak) mobaynida yaratilgan tovar va xizmatlar umumiy qiymatidir.
 
