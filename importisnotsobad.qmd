@@ -22,7 +22,7 @@ Unda nega tepada import chegirilmoqda?
 
 Sababi juda oddiy, [**import YaIM tarkibida o'tirmaydi**]{.underline}.
 
-Iste'mol (investitsiya, davlat) xarajatlari tarkibida mamlakatda ishlab chiqilgan mahsulotlar bilan birga import ham o'tiradi.
+Iste'mol (investitsiya, davlat) xarajatlari tarkibida mamlakatda ishlab chiqarilgan mahsulotlar bilan birga import ham o'tiradi.
 
 Misol uchun, yangi Iphone telefon sotib oldingiz, bu iste'molingizni bir qismi. Ammo, ichki, mahalliy (domestic) mahsulot emas - O'zbekistonda ishlab chiqarilmagan. Shuning uchun, ushbu xarajatni YaIMni hisoblashda chegirib tashlash kerak.
 

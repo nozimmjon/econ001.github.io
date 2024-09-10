@@ -3,7 +3,7 @@ project:
 
 book:
   title: "Iqtisodchi va boshqalar uchun yon daftar"
-  author: "Nozim"
+  author: "Nozimjon Ortiqov"
   date: "23.11.2023"
   chapters:
     - index.qmd
