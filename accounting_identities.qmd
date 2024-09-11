@@ -1,15 +1,39 @@
 # Ayniyatdan xulosa chiqarish kerak emas {.unnumbered}
 
-Ayniyat nima? Ayniyat - bu tarif bo’yicha doim to’gri degani.
+Ayniyat nima? Ayniyat - bu tarif bo’yicha doim to’g’ri degani. Iqtisodiy muhokamalarda eng ko'p uchraydigan xatolardan biri ayniyat orqali sabab-oqibat bo'yicha xulosa qilish.
 
-Misol uchun, daromadimiz jamg’arma va xarajatlarimiz yig’indisiga teng. Lekin hech qachon biz xarajatlarimizni ko’paytirsak daromadimiz ko’payadi deb aytmaymiz, to’g’rimi?
+::: column-margin
+Ingliz tilida "Never reason from an accounting identities" deb aytishadi. Twitterda (X) "Accounting identities" deb qidirib ko'ring, juda ko'p muhokamalar kelib chiqadi.
 
-Buning barchasi nimani nima keltirib chiqarishiga bog’liq. Misol uchun, xarajatni ko’paytirish mazkur xarajatlarni qoplash uchun ko’proq ishlashga majbur qilar yoki kamroq jamg’arma qilarmiz.
+![](GFxc02uWcAASvTq.jpeg)
+:::
 
-Quyida makroqitisodiy ayniyatlarga ikkita misol:
+YaIMni hisoblashning quyida keltirilgan formulasi shunday ayniyatga misol bo'la oladi:
 
 $Y = C + I + G+(X-M)$ .
 
-$Y = C + S + T$ .
+::: column-margin
+Ayniyatlarga misollar:\
+1. Pulning miqdoriy nazariyasi: $M*V = P*T$ . \
+*Bunda M - pul massasi (M2), V - pul aylanish tezligi, P-narxlar, T-transaksiyalar soni.*
+:::
 
-Yuqoridagi birinchi tenglamadan "davlat xarajatlarini ko’paytirish YaIMni oshiradi" deb xulosa berish mumkin. Yoki, ikkinchisidan "soliqlarni ko'paytirish YaIMni oshiradi" deb ham xulosa qilishi mumkin. Ko'pincha iqtisodiy muhokamalarda birinchi ta'kid eslanadi. Ammo, har ikkala fikr (xulosa) ham noto'g'ri.
+Ushbu tenglikni asos qilib olib ko'pincha "davlat xarajatlarini ko’paytirish YaIMni oshiradi" deyiladi. Yoki, G'ni oshirish YaIMni ko'paytirmaydi, sababi agar G yuqori bo'lsa investitsiyani (I) siqib chiqaradi (crowding out). Har ikkala fikr ham to'g'ri bo'lishi mumkin, ammo buning uchun yuqoridagi formula asos emas.
+
+Eng qizig'i yuqoridagi YaIM formulasini quyidagicha ham yozish mumkin:
+
+$Y = C + I + G+(X-M)$ .
+
+Bu ayniyatdan "soliqlarni ko'paytirish YaIMni oshiradi" deb ham aytish mumkin. Bu fikr deyarli ishlatilmaydi, lekin tepadagi bilan bir xil asosga ega.
+
+Yana bir misol, daromad - jamg’arma va xarajatlar yig’indisiga teng.
+
+$Daromad = Xarajat + Jamg'arma$
+
+Lekin hech qachon biz xarajatlarimizni ko’paytirsak daromadimiz ko’payadi deb aytmaymiz, to’g’rimi? Buning barchasi nimani nima keltirib chiqarishiga bog’liq. Misol uchun, xarajatni ko’paytirish ko’proq ishlashga majbur qilar yoki kamroq jamg’arma qilarmiz.
+
+Ayniyat - doim to'g'ri. Ayniyatdan to'g'ridan-to'g'ri sabab-oqibat munosabatlarini o'rnatib bo'lmaydi, aks holda tavtologiyaga aylanib qoladi.
+
+Ayniyatlar nima uchun kerak unda? Ayniyatlar "hisob-kitob balans beradimi yoki yo'qmi?" degan savolga javob topish uchun juda muhim, sabab-oqibat munosabatlarini o'rnatish uchun emas.
+
+Sabab-oqibat savollariga javob topish nazariylashtirish, xulq-atvor munosabatlarini (behavioural equation) modellashtirish va ekonometrik hisob-kitoblarni amalga oshirishni talab etadi.

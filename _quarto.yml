@@ -10,6 +10,9 @@ book:
     - intro.qmd
     - importisnotsobad.qmd
     - accounting_identities.qmd
+    - inflyatsiya.qmd
+    - realvsnominal.qmd
+    - percentage_change.qmd
     - references.qmd
 
 bibliography: references.bib

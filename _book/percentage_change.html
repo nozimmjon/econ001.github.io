@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Iqtisodchi va boshqalar uchun yon daftar - Import vs Yalpi ichki mahsulot (YaIM)</title>
+<title>Iqtisodchi va boshqalar uchun yon daftar - Foiz va Foiz bandi</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./accounting_identities.html" rel="next">
-<link href="./intro.html" rel="prev">
+<link href="./references.html" rel="next">
+<link href="./realvsnominal.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -62,12 +62,10 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
-<body class="nav-sidebar floating slimcontent">
+<body class="nav-sidebar floating">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -76,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./importisnotsobad.html">Import vs Yalpi ichki mahsulot (YaIM)</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./percentage_change.html">Foiz va Foiz bandi</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -115,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./importisnotsobad.html" class="sidebar-item-text sidebar-link active">
+  <a href="./importisnotsobad.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Import vs Yalpi ichki mahsulot (YaIM)</span></a>
   </div>
 </li>
@@ -123,6 +121,24 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="./accounting_identities.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Ayniyatdan xulosa chiqarish kerak emas</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./inflyatsiya.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Inflyatsiya va narx o’zgarishi</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./realvsnominal.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Real va Nominal stavka</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./percentage_change.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Foiz va Foiz bandi</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -140,11 +156,11 @@ ul.task-list li input[type="checkbox"] {
         
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Import vs Yalpi ichki mahsulot (YaIM)</h1>
+<h1 class="title">Foiz va Foiz bandi</h1>
 </div>
 
 
@@ -159,42 +175,6 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p><strong>Yalpi ichki mahsulot (YaIM)</strong> - <strong>mamlakat hududida</strong> ma’lum davr (yil yoki chorak) mobaynida yaratilgan tovar va xizmatlar umumiy qiymatidir.</p>
-<p>Ushbu ta’rifni bir muhim jihati bor:</p>
-<p><strong>Mamlakat tashqarisida yaratilgan mahsulotlar (import) YaIM tarkibiga kirmaydi</strong>.</p>
-<p>Ammo, juda ko’pchilik <em>import YaIMni kamaytiradi deb o’ylaydi</em>, hattoki professional iqtisodchi va nufuzli jurnallar ham.</p>
-<p>Ushbu xatolik milliy hisoblar tizimidagi ayniyatdan kelib chiqadi. Unga ko’ra, YaIM xarajatlar usulida quyidagicha hisoblanadi:</p>
-<p><span class="math inline">\(Y = C + I + G+(X-M)\)</span> .</p>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<p><em>Bu yerda, Y - yalpi ichki mahsulot, C - iste’mol, I-investitsiya, G-davlat xarajatlari, X-eksport, M - import.</em></p>
-</div></div><p>Ushbu ayniyatda M-import chegirib tashlanishi xato xulosaga olib keladi. Qolgan elementlar qo’shilyapti, import ayrilyapti. Shundan kelib chiqib, ko’pchilik “<em>importni kamaytirsak, YaIM ko’payadi</em>”, yoki “<em>import ko’paygani hisobiga YaIM o’sishi sekinlashdi</em>” deb xulosa qiladi.</p>
-<p>Unda nega tepada import chegirilmoqda?</p>
-<p>Sababi juda oddiy, <u><strong>import YaIM tarkibida o’tirmaydi</strong></u>.</p>
-<p>Iste’mol (investitsiya, davlat) xarajatlari tarkibida mamlakatda ishlab chiqarilgan mahsulotlar bilan birga import ham o’tiradi.</p>
-<p>Misol uchun, yangi Iphone telefon sotib oldingiz, bu iste’molingizni bir qismi. Ammo, ichki, mahalliy (domestic) mahsulot emas - O’zbekistonda ishlab chiqarilmagan. Shuning uchun, ushbu xarajatni YaIMni hisoblashda chegirib tashlash kerak.</p>
-<p>Savol tug’ilishi mumkin, nima uchun birdaniga iste’mol, investitsiya yoki davlat xarajatlaridan importni chegirib, yuqoridagi tenglamadan import komponenti olib tashlanmaydi va quyidagicha ifoda qilinmaydi?</p>
-<p><span class="math inline">\(Y = C + I + G+X\)</span></p>
-<p>Sababi, iste’mol, investitsiya va davlat xarajatlari umumiy (aggregated) ko’rsatkich va ushbu xarajatlar kelib chiqish manbasi bo’yicha alohida statistika yuritilmaydi. Sizdan yil davomidagi iste’molingizning qanchasi import mahsulotlar deb so’rashsa, aniq ayta olmaysiz yoki buning hisobini yuritmaysiz.</p>
-<p>Shuning uchun, statistikasi yuritiladigan umumiy iste’mol (investitsiya)dan statistikasi bor bo’lgan umumiy import komponenti olib tashlanadi.</p>
-<p>Yuqoridagi YaIM formulasini quyidagicha ifoda qilish orqali yana ham aniqroq tushunish mumkin:</p>
-<p><span class="math inline">\(Y = (C~d~ + C~f~ ) + (I~d~ + I~f~) + (G~d~ + G~f~) +(X- [C~f~ +I~f~ + G~f~])\)</span></p>
-<p>Bunda Iste’mol (Investitsiya, Davlat) xarajatlari ichki va tashqi komponentlarga ajratilgan.</p>
-<p>Mazkur formula yordamida bir misol ko’raylik.</p>
-<p>Tasavvur qilaylik, davlatda Iste’mol 100ga, Investitsiya, Davlat xarajatlari, Eksport va Import esa nol bo’lsin. Shunda, YaIM 100 ga teng bo’ladi:</p>
-<p><span class="math inline">\(Y = (100+0) + 0 + 0 + (0-0)\)</span></p>
-<p>Endi, ushbu gipotetik davlat tashqi bozorga ochilib, 100 birlik import qilsin va uni iste’mol qilsin. U holda tenglikni quyidagicha yozish mumkin:</p>
-<p><span class="math inline">\(Y = (100+100) + 0 + 0 + (0-100)\)</span></p>
-<p>Ushbu misolni soddalashtirsak, YaIM 100 ga teng bo’ladi. Bunda iste’mol 200, ammo YaIM hajmi o’zgarmasdan qoladi.</p>
-<p>Mazkur misoldan ko’rish mumkinki, <strong>import YaIM hajmiga ta’sir ko’rsatmaydi</strong> va faqat bir xarajatni ikki marta hisobga olmaslik uchun korrektirovka qilinyapti.</p>
-<p>Demak,</p>
-<ol type="1">
-<li>YaIM mamlakat hududida yaratilgan tovar va xizmatlarni o’z ichiga oladi.</li>
-<li>Import uchun sarflangan xarajatlarni YaIMni hisoblashda chegirib tashlash kerak.</li>
-<li>Import to’g’ridan-to’g’ri YaIMni kamaytirmaydi.</li>
-</ol>
-<p>Endi, kimdir aytishi mumkin, import ko’paysa milliy mahsulotlarni sotib olish kamayadi va bu YaIMni kamaytiradi deb.</p>
-<p><strong>Bu bizni yana bir xatoga yetaklaydi - ayniyatdan (formula) sabab-oqibatni keltirib chiqarish</strong>. Bu haqida keyingi qismda to’xtalamiz.</p>
 
 
 
@@ -434,13 +414,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./intro.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Kirish</span></span>
+      <a href="./realvsnominal.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Real va Nominal stavka</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./accounting_identities.html" class="pagination-link">
-        <span class="nav-page-text">Ayniyatdan xulosa chiqarish kerak emas</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./references.html" class="pagination-link">
+        <span class="nav-page-text">Foydalanilgan adabiyotlar</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
