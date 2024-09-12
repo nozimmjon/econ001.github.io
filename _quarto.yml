@@ -3,8 +3,13 @@ project:
 
 book:
   title: "Iqtisodchi va boshqalar uchun yon daftar"
+  search: true
+  repo-url: https://github.com/nozimmjon/econ_001
+  repo-actions: [edit]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
   author: "Nozimjon Ortiqov"
-  date: "23.11.2023"
+  date: "23/11/2023"
   chapters:
     - index.qmd
     - intro.qmd
@@ -24,4 +29,5 @@ format:
     documentclass: scrreprt
 
 editor: visual
-
+comments:
+  hypothesis: true

@@ -14,7 +14,7 @@ $Y = C + I + G+(X-M)$ .
 
 ::: column-margin
 Ayniyatlarga misollar:\
-1. Pulning miqdoriy nazariyasi: $M*V = P*T$ . \
+1. Pulning miqdoriy nazariyasi: $M*V = P*T$ .\
 *Bunda M - pul massasi (M2), V - pul aylanish tezligi, P-narxlar, T-transaksiyalar soni.*
 :::
 
@@ -22,7 +22,7 @@ Ushbu tenglikni asos qilib olib ko'pincha "davlat xarajatlarini ko’paytirish Y
 
 Eng qizig'i yuqoridagi YaIM formulasini quyidagicha ham yozish mumkin:
 
-$Y = C + I + G+(X-M)$ .
+$Y = C + S + T$ .
 
 Bu ayniyatdan "soliqlarni ko'paytirish YaIMni oshiradi" deb ham aytish mumkin. Bu fikr deyarli ishlatilmaydi, lekin tepadagi bilan bir xil asosga ega.
 
