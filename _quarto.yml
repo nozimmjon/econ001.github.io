@@ -25,7 +25,9 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: [pulse, style.scss]
+      dark: darkly
   pdf:
     documentclass: scrreprt
 
