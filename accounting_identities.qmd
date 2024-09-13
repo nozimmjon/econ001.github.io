@@ -18,13 +18,15 @@ YaIMni hisoblashning quyida keltirilgan formulasi shunday ayniyatga misol bo'la 
 
 $Y = C + I + G+(X-M)$ .
 
-Ushbu tenglikni asos qilib olib ko'pincha "davlat xarajatlarini ko’paytirish YaIMni oshiradi" deyiladi. Yoki, G'ni oshirish YaIMni ko'paytirmaydi, sababi agar G yuqori bo'lsa investitsiyani (I) siqib chiqaradi (crowding out). Har ikkala fikr ham to'g'ri bo'lishi mumkin, ammo buning uchun yuqoridagi formula asos emas.
+Ushbu tenglikni asos qilib olib ko'pincha "davlat xarajatlarini (G) ko’paytirish YaIMni oshiradi" deyiladi. Yoki, Gni oshirish YaIMni ko'paytirmaydi, sababi agar G yuqori bo'lsa investitsiyani (I) siqib chiqaradi *(crowding out)*. Har ikkala fikr ham to'g'ri bo'lishi mumkin, ammo buning uchun yuqoridagi formula asos bo'la olmaydi.
 
-Eng qizig'i yuqoridagi YaIM formulasini quyidagicha ham yozish mumkin:
+Buni yuqoridagi YaIM formulasini quyidagicha yozish orqali tushuntirish mumkin:
 
 \$\$Y = C + S + T\$\$
 
 *Bunda C - iste'mol, S - jamg'arma, T - soliqlar.*
+
+Ushbu fomula ham ayniyat - yuqoridagi ayniyatni boshqacharoq yozilishi.
 
 ::: column-margin
 Ayniyatlarga misollar:\
@@ -32,7 +34,7 @@ Ayniyatlarga misollar:\
 *Bunda M - pul massasi (M2), V - pul aylanish tezligi, P-narxlar, T-transaksiyalar soni.*
 :::
 
-Bu ayniyatdan "soliqlarni ko'paytirish YaIMni oshiradi" deb ham aytish mumkin. Bu fikr deyarli ishlatilmaydi, lekin tepadagi fikr bilan bir xil asosga ega.
+Bu ayniyatdan "soliqlarni ko'paytirish YaIMni oshiradi" deb ham aytish mumkin. Bu fikr deyarli ishlatilmaydi, birinchi fikr quloqqa ko'p chalinadi. Har ikki fikrning asosi bir xil (ayniyat), ammo har ikkisi ham noto'g'ri.
 
 Yana bir misol, daromad - jamg’arma va xarajatlar yig’indisiga teng.
 
