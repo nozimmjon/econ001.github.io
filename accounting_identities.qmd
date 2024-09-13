@@ -1,6 +1,12 @@
 # Ayniyatdan xulosa chiqarish kerak emas {.unnumbered}
 
-Ayniyat nima? Ayniyat - bu tarif bo’yicha doim to’g’ri degani. Iqtisodiy muhokamalarda eng ko'p uchraydigan xatolardan biri ayniyat orqali sabab-oqibat bo'yicha xulosa qilish.
+Ayniyat nima? **Ayniyat - bu ta'rif bo’yicha doim to’g’ri degani**.
+
+Ayniyat bilan tenglik bir-biridan farqlash kerak. Ayniyatda ifodaning **har ikki tomoni bir narsani bildiradi**. Ifodaning ikki tomoni har doim har qanday sharoitda bir-biriga teng bo'ladi, hech qachon o'zgarmaydi. Misol uchun, temperatura shkalasi formulasi ham ayniyat ($F = 9/5*C + 32$). Temperaturani boshqa-boshqa birliklarda ifoda etilishi xolos. Ushbu munosabat doim saqlanib qoladi, o'zgarmaydi.
+
+Tenglik esa ifodaning ikki tomoni *(qandaydir sabablarga ko'ra)* bir-biriga tengligini ko'rsatadi. Misol uchun, Anvar bilan Diloromning daromadi bugun bir xil bo'lishi mumkin *(Anvar daromadi = Dilorom Daromadi)*. Ammo ertaga ularning daromadi o'zgarishi mumkin. Bunday holatda tenglik saqlanmaydi.
+
+Iqtisodiy muhokamalarda eng ko'p uchraydigan xatolardan biri **ayniyat orqali sabab-oqibat bo'yicha xulosa qilish.**
 
 ::: column-margin
 Ingliz tilida "Never reason from an accounting identities" deb aytishadi. Twitterda (X) "Accounting identities" deb qidirib ko'ring, juda ko'p muhokamalar kelib chiqadi.
@@ -12,19 +18,21 @@ YaIMni hisoblashning quyida keltirilgan formulasi shunday ayniyatga misol bo'la 
 
 $Y = C + I + G+(X-M)$ .
 
+Ushbu tenglikni asos qilib olib ko'pincha "davlat xarajatlarini ko’paytirish YaIMni oshiradi" deyiladi. Yoki, G'ni oshirish YaIMni ko'paytirmaydi, sababi agar G yuqori bo'lsa investitsiyani (I) siqib chiqaradi (crowding out). Har ikkala fikr ham to'g'ri bo'lishi mumkin, ammo buning uchun yuqoridagi formula asos emas.
+
+Eng qizig'i yuqoridagi YaIM formulasini quyidagicha ham yozish mumkin:
+
+\$\$Y = C + S + T\$\$
+
+*Bunda C - iste'mol, S - jamg'arma, T - soliqlar.*
+
 ::: column-margin
 Ayniyatlarga misollar:\
 1. Pulning miqdoriy nazariyasi: $M*V = P*T$ .\
 *Bunda M - pul massasi (M2), V - pul aylanish tezligi, P-narxlar, T-transaksiyalar soni.*
 :::
 
-Ushbu tenglikni asos qilib olib ko'pincha "davlat xarajatlarini ko’paytirish YaIMni oshiradi" deyiladi. Yoki, G'ni oshirish YaIMni ko'paytirmaydi, sababi agar G yuqori bo'lsa investitsiyani (I) siqib chiqaradi (crowding out). Har ikkala fikr ham to'g'ri bo'lishi mumkin, ammo buning uchun yuqoridagi formula asos emas.
-
-Eng qizig'i yuqoridagi YaIM formulasini quyidagicha ham yozish mumkin:
-
-$Y = C + S + T$ .
-
-Bu ayniyatdan "soliqlarni ko'paytirish YaIMni oshiradi" deb ham aytish mumkin. Bu fikr deyarli ishlatilmaydi, lekin tepadagi bilan bir xil asosga ega.
+Bu ayniyatdan "soliqlarni ko'paytirish YaIMni oshiradi" deb ham aytish mumkin. Bu fikr deyarli ishlatilmaydi, lekin tepadagi fikr bilan bir xil asosga ega.
 
 Yana bir misol, daromad - jamg’arma va xarajatlar yig’indisiga teng.
 
@@ -32,8 +40,10 @@ $Daromad = Xarajat + Jamg'arma$
 
 Lekin hech qachon biz xarajatlarimizni ko’paytirsak daromadimiz ko’payadi deb aytmaymiz, to’g’rimi? Buning barchasi nimani nima keltirib chiqarishiga bog’liq. Misol uchun, xarajatni ko’paytirish ko’proq ishlashga majbur qilar yoki kamroq jamg’arma qilarmiz.
 
-Ayniyat - doim to'g'ri. Ayniyatdan to'g'ridan-to'g'ri sabab-oqibat munosabatlarini o'rnatib bo'lmaydi, aks holda tavtologiyaga aylanib qoladi.
+**Ayniyat - doim to'g'ri. Ayniyatdan to'g'ridan-to'g'ri sabab-oqibat munosabatlarini o'rnatib bo'lmaydi, aks holda tavtologiyaga aylanib qoladi.**
 
-Ayniyatlar nima uchun kerak unda? Ayniyatlar "hisob-kitob balans beradimi yoki yo'qmi?" degan savolga javob topish uchun juda muhim, sabab-oqibat munosabatlarini o'rnatish uchun emas.
+Ayniyatlar iqtisodiyotda ko'p uchraydi, buning sababi iqtisodiy transaktsiyalar har doim ikki tomonlama sodir bo'ladi. Kimningdir daromadi, kimgadir harajat. Ayniyatlar "hisob-kitob balans beradimi yoki yo'qmi?" degan savolga javob topish uchun juda muhim, sabab-oqibat munosabatlarini o'rnatish uchun emas.
 
-Sabab-oqibat savollariga javob topish nazariylashtirish, xulq-atvor munosabatlarini (behavioural equation) modellashtirish va ekonometrik hisob-kitoblarni amalga oshirishni talab etadi.
+**Sabab-oqibat savollariga javob topish nazariylashtirish, xulq-atvor munosabatlarini (behavioural equation) modellashtirish va ekonometrik hisob-kitoblarni amalga oshirishni talab etadi.**
+
+Ayniyatdan foydalangan holda qilinadigan eng ko'p xatolardan birini oldingi qismda ko'rib o'tdik. Bunda xato qilmang. Ayniyat orqali xulosa chiqarmang.
