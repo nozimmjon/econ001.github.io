@@ -2,9 +2,9 @@
 
 Ayniyat nima? **Ayniyat - bu ta'rif bo’yicha doim to’g’ri degani**.
 
-Ayniyat bilan tenglik bir-biridan farqlash kerak. Ayniyatda ifodaning **har ikki tomoni bir narsani bildiradi**. Ifodaning ikki tomoni har doim har qanday sharoitda bir-biriga teng bo'ladi, hech qachon o'zgarmaydi. Misol uchun, temperatura shkalasi formulasi ham ayniyat ($F = 9/5*C + 32$). Temperaturani boshqa-boshqa birliklarda ifoda etilishi xolos. Ushbu munosabat doim saqlanib qoladi, o'zgarmaydi.
+Ayniyat bilan tenglikni bir-biridan farqlash kerak. Ayniyatda ifodaning **har ikki tomoni bir narsani bildiradi**. Ifodaning ikki tomoni har doim har qanday sharoitda bir-biriga teng bo'ladi, hech qachon o'zgarmaydi. Misol uchun, temperatura shkalasi formulasi ham ayniyat ($F = 9/5*C + 32$). Temperaturani boshqa-boshqa birliklarda ifoda etilishi xolos. Ushbu munosabat doim saqlanib qoladi, o'zgarmaydi.
 
-Tenglik esa ifodaning ikki tomoni *(qandaydir sabablarga ko'ra)* bir-biriga tengligini ko'rsatadi. Misol uchun, Anvar bilan Diloromning daromadi bugun bir xil bo'lishi mumkin *(Anvar daromadi = Dilorom Daromadi)*. Ammo ertaga ularning daromadi o'zgarishi mumkin. Bunday holatda tenglik saqlanmaydi.
+Tenglik esa ifodaning ikki tomoni *(qandaydir sabablarga ko'ra)* bir-biriga tengligini ko'rsatadi. Misol uchun, Anvar bilan Diloromning daromadi bugun bir xil bo'lishi mumkin *(Anvar daromadi = Dilorom daromadi)*. Ammo ertaga ularning daromadi o'zgarishi mumkin. Bunday holatda tenglik saqlanmaydi.
 
 Iqtisodiy muhokamalarda eng ko'p uchraydigan xatolardan biri **ayniyat orqali sabab-oqibat bo'yicha xulosa qilish.**
 
